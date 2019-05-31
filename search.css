@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("bg.jpg");
+    
+}
+#option{
+margin:auto;
+display: block;
+margin-top: 200px;
+border: 2px solid black;
+border-radius: 12px;
+box-shadow: 12px green;    
+background-image: linear-gradient(black,white);
+font-size: 24px;
+cursor: help;
+height: 50;
+width: 50%;
+word-spacing: 6px;
+font-style: italic;
+text-transform: uppercase;
+}
+
+.header{
+    margin: 0;
+    padding-top: 130px;
+    padding-bottom: 12px;
+    max-width: 100%;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: green;
+    background: black;
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 60px;
+    box-shadow: 23px white;
+    
+    
+}
